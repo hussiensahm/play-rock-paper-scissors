@@ -1,1 +1,1 @@
-Project from learing Pyton "100dau of code"
+Project from learing Pyton "100day of code"
