@@ -1,1 +1,1 @@
-# play-rock-paper-scissors
+Project from learing Pyton "100dau of code"
